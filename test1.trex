@@ -16,7 +16,7 @@
   </dashboard-extension>
   <resources>
     <resource id="name">
-      <text locale="en_US">Tutorial One</text>
+      <text locale="en_US">Test Extension 2</text>
     </resource>
   </resources>
 </manifest>
